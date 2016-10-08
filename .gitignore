@@ -4,3 +4,4 @@ elm-stuff/
 repl-temp-*
 # node stuff
 node_modules
+elm.js

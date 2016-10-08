@@ -1,0 +1,8 @@
+{
+  "name": "inventory",
+  "version": "0.1.0",
+  "main": "electron-start.js",
+  "dependencies": {
+    "electron-json-storage": "^2.0.1"
+  }
+}
